@@ -1,14 +1,14 @@
 /* CSS untuk body */
 body {
-    background-color: #f8f3f3;
-    color: #ffffff;
+    background-color: #f4f4f4;
+    color: #333;
     margin: 0; 
     font-family: Arial, sans-serif; 
 }
 
 /* CSS untuk heading */
 h1, h2, h3, h4, h5, h6 {
-    color: #1e1e1e;
+    color: #2c3e50;
     margin-top: 0; 
 }
 
@@ -336,8 +336,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* CSS untuk footer */
 footer {
-    background-color:#0078ff;
-    color: #fff;
+    background-color:#2c3e50;
+    color: #ecf0f1;
     padding: 20px 0;
     text-align: center;
     margin-top: 50px; /* Menambah jarak antara kontak dan footer */
